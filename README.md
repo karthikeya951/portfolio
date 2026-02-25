@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>karthikeya chinthala | AI & ML Engineer</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
